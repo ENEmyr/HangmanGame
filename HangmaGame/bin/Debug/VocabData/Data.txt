@@ -1,0 +1,12 @@
+﻿one หนึ่ง
+game เกม
+love ความรัก
+hate เกลียด
+pet สัตว์เลี้ยง
+social สังคม
+event เหตุการณ์
+actor นักแสดง
+toy ของเล่น
+run วิ่ง
+watch มอง
+physics วิชาฟิสิกส์
